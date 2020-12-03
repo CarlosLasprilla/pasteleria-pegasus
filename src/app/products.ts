@@ -16,7 +16,7 @@ export const products = [
     description: "Helado de vainilla, chocolate y arequipe."
   },
   {
-    name: "Copa Frutos Verdes",
+    name: "Cualquier cos",
     price: 254,
     description:
       "Helado de kiwi, lulo y vainilla, salsa de lulo, chema chantilly y galleta."
